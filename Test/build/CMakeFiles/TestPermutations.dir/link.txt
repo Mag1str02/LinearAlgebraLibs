@@ -1,0 +1,3 @@
+D:\Programs\Cmake\bin\cmake.exe -E rm -f CMakeFiles\TestPermutations.dir/objects.a
+D:\Programs\MinGV\mingw64\bin\ar.exe qc CMakeFiles\TestPermutations.dir/objects.a @CMakeFiles\TestPermutations.dir\objects1.rsp
+D:\Programs\MinGV\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\TestPermutations.dir/objects.a -Wl,--no-whole-archive -o TestPermutations.exe -Wl,--out-implib,libTestPermutations.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TestPermutations.dir\linklibs.rsp

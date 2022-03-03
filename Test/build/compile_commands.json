@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Test/build",
+  "command": "D:\\Programs\\MinGV\\mingw64\\bin\\g++.exe   -g -std=gnu++2a -o CMakeFiles\\TestPermutations.dir\\TestPermutations.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Test\\TestPermutations.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Test/TestPermutations.cpp"
+},
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Test/build",
+  "command": "D:\\Programs\\MinGV\\mingw64\\bin\\g++.exe   -g -std=gnu++2a -o CMakeFiles\\TestPermutations.dir\\E_\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Fraction\\fraction.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Fraction\\fraction.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Fraction/fraction.cpp"
+},
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Test/build",
+  "command": "D:\\Programs\\MinGV\\mingw64\\bin\\g++.exe   -g -std=gnu++2a -o CMakeFiles\\TestPermutations.dir\\E_\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Matrix\\matrix.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Matrix\\matrix.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Matrix/matrix.cpp"
+},
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Test/build",
+  "command": "D:\\Programs\\MinGV\\mingw64\\bin\\g++.exe   -g -std=gnu++2a -o CMakeFiles\\TestPermutations.dir\\E_\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Permutation\\permutation.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Permutation\\permutation.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Permutation/permutation.cpp"
+}
+]

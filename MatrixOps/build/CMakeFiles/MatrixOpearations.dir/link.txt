@@ -1,0 +1,3 @@
+D:\Programs\Cmake\bin\cmake.exe -E rm -f CMakeFiles\MatrixOpearations.dir/objects.a
+D:\Programs\MSYS\mingw64\bin\ar.exe qc CMakeFiles\MatrixOpearations.dir/objects.a @CMakeFiles\MatrixOpearations.dir\objects1.rsp
+D:\Programs\MSYS\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\MatrixOpearations.dir/objects.a -Wl,--no-whole-archive -o MatrixOpearations.exe -Wl,--out-implib,libMatrixOpearations.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MatrixOpearations.dir\linklibs.rsp

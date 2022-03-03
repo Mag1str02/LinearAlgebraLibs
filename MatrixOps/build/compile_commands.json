@@ -1,0 +1,22 @@
+[
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/MatrixOps/build",
+  "command": "D:\\Programs\\MSYS\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++20 -o CMakeFiles\\MatrixOpearations.dir\\MatrixOperations.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\MatrixOps\\MatrixOperations.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/MatrixOps/MatrixOperations.cpp"
+},
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/MatrixOps/build",
+  "command": "D:\\Programs\\MSYS\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++20 -o CMakeFiles\\MatrixOpearations.dir\\E_\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Matrix\\matrix.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Matrix\\matrix.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Matrix/matrix.cpp"
+},
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/MatrixOps/build",
+  "command": "D:\\Programs\\MSYS\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++20 -o CMakeFiles\\MatrixOpearations.dir\\E_\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Permutation\\permutation.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Permutation\\permutation.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Permutation/permutation.cpp"
+},
+{
+  "directory": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/MatrixOps/build",
+  "command": "D:\\Programs\\MSYS\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe   -g -std=gnu++20 -o CMakeFiles\\MatrixOpearations.dir\\E_\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Fraction\\fraction.cpp.obj -c E:\\IT_Space\\Programs\\C++\\LinearAlgebraLibs\\Fraction\\fraction.cpp",
+  "file": "E:/IT_Space/Programs/C++/LinearAlgebraLibs/Fraction/fraction.cpp"
+}
+]
